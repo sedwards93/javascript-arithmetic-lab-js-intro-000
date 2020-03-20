@@ -18,3 +18,7 @@ function decrement(n) {
   (n --)
   return(n)
 }
+
+function makeInt(n) {
+  return.parsInt(n,10)
+}
